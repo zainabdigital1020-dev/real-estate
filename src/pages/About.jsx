@@ -87,7 +87,7 @@ const About = () => {
                         >
                             <h2 className="section-title">A Heritage of <span className="gold-text">Excellence</span></h2>
                             <p className="lead-text">
-                                Founded in 1998, Aura Estates emerged from a singular vision: to revolutionize the luxury real estate experience for the world's most discerning clientele.
+                                Founded in 1998, Zenny Estates emerged from a singular vision: to revolutionize the luxury real estate experience for the world's most discerning clientele.
                             </p>
                             <p>
                                 Our firm has spent over two decades cultivating an unparalleled network of international buyers, sellers, and off-market opportunities. We understand that acquiring a signature property is not merely a transaction; it is the acquisition of a lifestyle, a sanctuary, and a legacy.

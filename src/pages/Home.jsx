@@ -142,7 +142,7 @@ const Home = () => {
                         >
                             <h2 className="section-title">The Standard of <span className="gold-text">Excellence</span></h2>
                             <p className="why-us-desc">
-                                With over two decades of experience in the luxury real estate market, Aura Estates delivers unparalleled service, discretion, and access to the world's most coveted properties.
+                                With over two decades of experience in the luxury real estate market, Zenny Estates delivers unparalleled service, discretion, and access to the world's most coveted properties.
                             </p>
 
                             <div className="features-list">
@@ -209,7 +209,7 @@ const Home = () => {
                                     {[...Array(5)].map((_, i) => <Star key={i} size={16} fill="var(--gold-primary)" color="var(--gold-primary)" />)}
                                 </div>
                                 <p className="testimonial-quote">
-                                    "Aura Estates provided an immaculate experience. Their access to off-market properties allowed me to find the perfect penthouse that exactly matched my vision."
+                                    "Zenny Estates provided an immaculate experience. Their access to off-market properties allowed me to find the perfect penthouse that exactly matched my vision."
                                 </p>
                                 <div className="client-info">
                                     <div className="client-avatar"></div>

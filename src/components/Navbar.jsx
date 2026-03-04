@@ -33,7 +33,7 @@ const Navbar = () => {
         <header className={`navbar ${isScrolled ? 'scrolled glass' : ''}`}>
             <div className="container nav-container">
                 <Link to="/" className="brand">
-                    <span className="brand-gold">AURA</span>
+                    <span className="brand-gold">ZENNY</span>
                     <span className="brand-text">Estates</span>
                 </Link>
 

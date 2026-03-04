@@ -64,7 +64,7 @@ const Contact = () => {
                                     <div className="info-icon"><Mail size={24} /></div>
                                     <div className="info-text">
                                         <h4>Email Us</h4>
-                                        <p>concierge@auraestates.com<br />press@auraestates.com</p>
+                                        <p>concierge@zennyestates.com<br />press@zennyestates.com</p>
                                     </div>
                                 </div>
 

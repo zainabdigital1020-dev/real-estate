@@ -10,11 +10,11 @@ const Footer = () => {
                     {/* Brand & About */}
                     <div className="footer-col brand-col">
                         <Link to="/" className="brand footer-brand">
-                            <span className="brand-gold">AURA</span>
+                            <span className="brand-gold">ZENNY</span>
                             <span className="brand-text">Estates</span>
                         </Link>
                         <p className="footer-desc">
-                            Discover exceptional luxury living. We provide exclusive access to the world's most premium real estate, tailored for elite investors and discerning homeowners.
+                            Discover exceptional luxury living with Zenny Estates. We provide exclusive access to the world's most premium real estate, tailored for elite investors and discerning homeowners.
                         </p>
                         <div className="social-links">
                             <a href="https://facebook.com" target="_blank" rel="noreferrer" className="social-btn"><Facebook size={20} /></a>
@@ -60,7 +60,7 @@ const Footer = () => {
                             </div>
                             <div className="contact-item">
                                 <Mail size={20} className="gold-text" />
-                                <span>concierge@auraestates.com</span>
+                                <span>concierge@zennyestates.com</span>
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@ const Footer = () => {
                         </form>
                     </div>
                     <div className="copyright">
-                        <p>&copy; {new Date().getFullYear()} Aura Estates. All rights reserved.</p>
+                        <p>&copy; {new Date().getFullYear()} Zenny Estates. All rights reserved.</p>
                     </div>
                 </div>
             </div>
